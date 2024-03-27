@@ -22,4 +22,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          echo SECRET_REPO: ${{ inputs.variavel-demo }}
+          echo inputs.variavel-demo: ${{ inputs.variavel-demo }}
